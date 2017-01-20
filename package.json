@@ -1,0 +1,25 @@
+{
+  "name": "yeh",
+  "version": "0.0.1",
+  "description": "yeh makes shortcuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robhowell/yeh"
+  },
+  "keywords": [
+    "node",
+    "shortcut",
+    "task",
+    "runner"
+  ],
+  "author": "Rob Howell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robhowell/yeh/issues"
+  },
+  "homepage": "https://github.com/robhowell/yeh"
+}
